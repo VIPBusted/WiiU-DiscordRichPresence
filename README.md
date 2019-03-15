@@ -25,3 +25,4 @@
 ... can be done very easily just look at the two mains piece of code: **discord.py** and **wiiu_info.py**
 Make a Pull request and i'll add credits for you.
 Contact me if you don't find out !
+  Danke  an das AntiFrezzMods Team Für Die Deutsch Übersetzung :) 
